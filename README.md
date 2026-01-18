@@ -1,2 +1,2 @@
 # kindle-scribe
-ontouchstart.github.io/kindle-scribe
+<https://ontouchstart.github.io/kindle-scribe>
